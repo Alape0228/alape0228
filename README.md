@@ -13,6 +13,9 @@ Desde entonces me he dedicado a especializarme de manera autodidacta En el lengu
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![PHP](https://img.shields.io/badge/PHP-4479A1?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+
+
 
 ## Encuéntrame en:
 [![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/mouredev)
