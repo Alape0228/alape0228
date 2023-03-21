@@ -24,4 +24,4 @@ Desde entonces me he dedicado a especializarme de manera autodidacta En el lengu
 
 ## Encuéntrame en:
 [![Facebook](https://img.shields.io/badge/Facebook-@DavidAlape028-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/DavidAlape0228/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jose-david-alape-delgado-b9577226a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Alape-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jose-david-alape-delgado-b9577226a/)
