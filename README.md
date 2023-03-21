@@ -14,6 +14,11 @@ Desde entonces me he dedicado a especializarme de manera autodidacta En el lengu
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![PHP](https://img.shields.io/badge/PHP-4479A1?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+[![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
+[![LARAVEL](https://img.shields.io/badge/LARAVEL-F05340?style=for-the-badge&logo=LARAVEL&logoColor=white&labelColor=101010)]()
+[![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
 
 
 
